@@ -1,0 +1,2 @@
+# ffmpeg_decode
+使用ffmpeg对文件进行解码，把解码出来的h264格式和yuv格式的流分别提取出来，根据雷神的代码修改，ffmpeg4.4
